@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sayalee16
+- 👋 Hi, I’m Sayalee Khedekar
 - 🌱 I’m currently learning Java
 - 📫 How to reach me sayaleekhedekar@gmail.com
 - ![Profile Views](https://komarev.com/ghpvc/?username=sayalee16&color=blue)
